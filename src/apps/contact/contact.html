@@ -1,1 +1,37 @@
-<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Contact Me</title><link rel="stylesheet" href="https://unpkg.com/xp.css@0.2.6/dist/XP.css" crossorigin="anonymous"><link rel="stylesheet" href="contact.css"></head><body><div class="content-wrapper"><div class="field"><label for="contact-to">To:</label> <input type="text" id="contact-to" class="input readonly" value="Dehan Vithana <dehan.m.vithana@gmail.com>" readonly="readonly"></div><div class="field"><label for="contact-from">From:</label> <input type="text" id="contact-from" class="input" placeholder="Your email address"></div><div class="field"><label for="contact-subject">Subject:</label> <input type="text" id="contact-subject" class="input" placeholder="Subject of your message"></div><textarea id="contact-message" class="textarea" placeholder="Write your message here"></textarea></div><script src="contact.js"></script></body></html>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Contact Me</title>
+    <link rel="stylesheet" href="https://unpkg.com/xp.css@0.2.6/dist/XP.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="contact.css">
+  </head>
+  <body>
+    <div class="content-wrapper">
+      <div class="field">
+        <label for="contact-to">To:</label> 
+        <input type="text" id="contact-to" class="input readonly" value="Dehan Vithana <dehan.m.vithana@gmail.com>" readonly="readonly">
+      </div>
+      <div class="field">
+        <label for="contact-from">From:</label> 
+        <input type="text" id="contact-from" class="input" placeholder="Your email address">
+      </div>
+      <div class="field">
+        <label for="contact-subject">Subject:</label> 
+        <input type="text" id="contact-subject" class="input" placeholder="Subject of your message">
+      </div>
+      <textarea id="contact-message" class="textarea" placeholder="Write your message here"></textarea>
+
+      <div class="action-bar" style="margin-top: 10px; display: flex; justify-content: flex-end; gap: 8px;">
+        <a href="tel:+94718704640" style="text-decoration: none;">
+          <button type="button">📞 Call</button>
+        </a>
+        <a href="https://wa.me/94718704640" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+          <button type="button">💬 WhatsApp</button>
+        </a>
+      </div>
+      </div>
+    <script src="contact.js"></script>
+  </body>
+</html>
