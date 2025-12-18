@@ -2,129 +2,57 @@
   {
     "type": "video",
     "src": "assets/apps/projects/event-work/aac-thumb.mp4",
-    "poster": "assets/apps/projects/event-work/aac-poster.webp",
+    "poster": "assets/apps/projects/event-work/aac-poster1.webp",
     "images": [
       {
-        "src": "assets/apps/projects/event-work/aac.mp4",
-        "poster": "assets/apps/projects/event-work/aac-poster.webp"
-      },
-      {
-        "src": "assets/apps/projects/event-work/jason-leonard.mp4",
-        "poster": "assets/apps/projects/event-work/jason-leonard-poster.webp"
+       "assets/apps/projects/event-work/aac-poster2.webp"
       }
     ],
-    "title": "Event Work Reel",
-    "subtitle": "Commissioned videos for live events and stage intros.",
-    "description": "Produced a series of event videos across multiple commissions, including player introductions, highlight reels, and background visuals. Each video was built for large-screen projection and tailored to match the pacing, tone, and technical setup of the event. Featured speakers included professional rugby players.",
-    "bulletPoints": [
-      "Jason Leonard (ENG)",
-      "Adam Ashley-Cooper (AUS)"
-    ],
-    "toolsUsed": ["Premiere Pro", "After Effects"],
-    "workType": "client",
-    "alt": "Event Work Reel"
-  },
-  {
-    "type": "image",
-    "src": "assets/apps/projects/game-day/mavs-final.webp",
-    "images": [
-      "assets/apps/projects/game-day/abs-final.webp",
-      "assets/apps/projects/game-day/blues-xv.webp"      
-    ],
-    "title": "Game Day Graphics",
-    "subtitle": "Matchday visuals including lineups, gameday tiles, and fulltime results.",
-    "description": "Created a set of individual athlete graphics as personal design studies. Each piece explored different approaches to tone, lighting, and layout without using templates or team branding. Focused on building clean, high-impact visuals through image manipulation and composition.",
-    "bulletPoints": [
-      "Consistent framework tailored for pre and post-game use",
-      "Emphasis on clarity, team identity, and match context",
-      "Flexible layouts suited to a range of content types"
-    ],
-    "toolsUsed": ["Photoshop, Illustrator"],
-    "alt": "Game Day Graphics"
-  },    
-  {
-    "type": "image",
-    "src": "assets/apps/projects/marky/marky-thumb.webp",
-    "images": [
-      "assets/apps/projects/marky/marky1.webp",
-      "assets/apps/projects/marky/marky2.webp",
-      "assets/apps/projects/marky/marky3.webp",
-      "assets/apps/projects/marky/marky4.webp",
-      "assets/apps/projects/marky/marky5.webp"
-    ],
-    "title": "Video Clipper",
-    "subtitle": "Rapid-fire video clipping app built to streamline video production workflow.",
-    "description": "A custom desktop app built for clipping video with speed and precision. Marky lets you import or download footage, scrub cleanly, mark in and out points, and export clips fast. Designed with a minimal UI and built for real workflows using local tools and a focused feature set.",
-    "bulletPoints": [
-      "Imports video or downloads via URL",
-      "Frame-accurate timeline scrubbing",
-      "Fast clip export using ffmpeg under the hood"
-    ],
-    "toolsUsed": ["VS Code, Generative AI"],
-    "alt": "Video Clipper"
-  }, 
-  {
-    "type": "image",
-    "src": "assets/apps/projects/hero-graphics/patrickmahomes.webp",
-    "images": [
-      "assets/apps/projects/hero-graphics/minnesotas-coldest.webp"
-    ],
-    "title": "Hero Graphics",
-    "subtitle": "Stylised athlete edits and high-impact Photoshop visuals.",
-    "description": "A collection of image-based design work built through Photoshop. This project explores compositing, retouching, and visual manipulation as tools to push style, technique, and creative direction across different subjects and formats.",
-    "bulletPoints": [
-      "Designed to highlight individuality and presence",
-      "Balances composition, contrast, and scale",
-      "Adapts style to suit each player and moment"
-    ],
-    "toolsUsed": ["Photoshop"],
-    "alt": "Hero Graphics"
-  },
-  {
-    "type": "image",
-    "src": "assets/apps/projects/mitchivinxp/image1.webp",
-    "images": [
-      "assets/apps/projects/mitchivinxp/image1.webp",
-      "assets/apps/projects/mitchivinxp/image2.webp",
-      "assets/apps/projects/mitchivinxp/image3.webp",
-      "assets/apps/projects/mitchivinxp/image4.webp",
-      "assets/apps/projects/mitchivinxp/image5.webp",
-      "assets/apps/projects/mitchivinxp/image6.webp"
-    ],
-    "title": "MitchIvin XP",
-    "subtitle": "A fully interactive Windows XP simulation reimagined as a design portfolio experience.",
+    "title": "Dehan XP",
+    "subtitle": "A fully interactive Windows XP simulation reimagined as a design portfolio eXPerience.",
     "description": "A fully interactive portfolio built inside a custom Windows XP simulation. Made to feel like a working OS, it includes functional apps, retro UI, and detailed screens built from scratch. Every part, from the boot screen to the desktop, was designed to show execution, control, and originality.",
     "bulletPoints": [
-      "Fully navigable desktop with mobile support",
+     "Fully navigable desktop with mobile support",
       "Built from scratch using HTML, CSS, and JavaScript",
       "Focused on detail, interface design, and creative direction"
     ],
-    "toolsUsed": ["HTML/CSS/JS, Generative AI, Illustrator, Photoshop"],
-    "alt": "MitchIvin XP"
+    "toolsUsed": ["HTML/CSS/JS, Generative AI"],
+    "alt": "Dehan XP"
   },
   {
-   "type": "video",
-    "src": "assets/apps/projects/social-reels/lbj-thumb.mp4",
-    "poster": "assets/apps/projects/social-reels/lbj-poster.webp",
+    "type": "video",
+    "src": "assets/apps/projects/game-day/janakavi.mp4",
+    "poster": "assets/apps/projects/game-dayk/mavs-final.webp",
     "images": [
-      {
-        "src": "assets/apps/projects/social-reels/dc.mp4",
-        "poster": "assets/apps/projects/social-reels/dc-poster.webp"
-      },
-      {
-        "src": "assets/apps/projects/social-reels/lbj.mp4",
-        "poster": "assets/apps/projects/social-reels/lbj-poster.webp"
-      }
+      "assets/apps/projects/game-day/mavs-final.webp" 
     ],
-    "title": "Social Reels",
-    "subtitle": "Fast-paced edits capturing key moments, emotion, and story.",
-    "description": "Cut a collection of short-form video edits for personal socials. Each piece explores rhythm, flow, and pacing using gameplay footage and music. Edited for punch, tested across formats, and built without client restrictions.",
+    "title": "AI Janakavi",
+    "subtitle": "Reimagining Sri Lanka's soul with the mind of AI. Traditional Folk x Future Tech.",
+    "description": "Take the timeless rhythms of our ancestors—from the harvest chants of the paddy fields to the energetic beats of Baila—and reimagine them for the digital age. Using cutting-edge AI, we blend traditional melodies with lo-fi, synth-wave, and electronic landscapes.",
     "bulletPoints": [
-      "Built for hype, emotion, and impact",
-      "Covers multiple sports and styles",
-      "Edits tailored for each platform and audience"
+      "Future-Heritage Visuals",
+      "Fusion Duets",
+      "Lofi Jana Kavi"
     ],
-    "toolsUsed": ["Premiere Pro", "After Effects"],
-    "alt": "Social Reels"
+    "toolsUsed": ["Suno, Veo"],
+    "alt": "AI Janakavi"
+  },    
+  {
+    "type": "video",
+    "src": "assets/apps/projects/marky/Pimburupath.mp4",
+    "poster": "assets/apps/projects/marky/marky-thumb.webp",
+    "images": [
+      "assets/apps/projects/marky/marky-thumb.webp"
+    ],
+    "title": "Pimburupath",
+    "subtitle": "Automating the boring stuff, one script at a time. Visualizing code, AI hacks",
+    "description": "Unlock the power of Python without the headache. Turn complex logic into satisfying, visual experiences. Build bots, automate daily tasks, create generative art, and break down useful scripts line-by-line.",
+    "bulletPoints": [
+      "Code vs. Reality",
+      "API Magic",
+      "Visualizing Chaos"
+    ],
+    "toolsUsed": ["Python, Generative AI"],
+    "alt": "Pimburupath"
   }
 ]
