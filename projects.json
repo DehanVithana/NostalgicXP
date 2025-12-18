@@ -4,27 +4,27 @@
     "src": "assets/apps/projects/event-work/aac-thumb.mp4",
     "poster": "assets/apps/projects/event-work/aac-poster1.webp",
     "images": [
-      {
-       "assets/apps/projects/event-work/aac-poster2.webp"
-      }
+      "assets/apps/projects/event-work/aac-poster2.webp"
     ],
     "title": "Dehan XP",
     "subtitle": "A fully interactive Windows XP simulation reimagined as a design portfolio eXPerience.",
     "description": "A fully interactive portfolio built inside a custom Windows XP simulation. Made to feel like a working OS, it includes functional apps, retro UI, and detailed screens built from scratch. Every part, from the boot screen to the desktop, was designed to show execution, control, and originality.",
     "bulletPoints": [
-     "Fully navigable desktop with mobile support",
+      "Fully navigable desktop with mobile support",
       "Built from scratch using HTML, CSS, and JavaScript",
       "Focused on detail, interface design, and creative direction"
     ],
-    "toolsUsed": ["HTML/CSS/JS, Generative AI"],
+    "toolsUsed": [
+      "HTML/CSS/JS, Generative AI"
+    ],
     "alt": "Dehan XP"
   },
   {
     "type": "video",
     "src": "assets/apps/projects/game-day/janakavi.mp4",
-    "poster": "assets/apps/projects/game-dayk/mavs-final.webp",
+    "poster": "assets/apps/projects/game-day/mavs-final.webp",
     "images": [
-      "assets/apps/projects/game-day/mavs-final.webp" 
+      "assets/apps/projects/game-day/mavs-final.webp"
     ],
     "title": "AI Janakavi",
     "subtitle": "Reimagining Sri Lanka's soul with the mind of AI. Traditional Folk x Future Tech.",
@@ -34,9 +34,11 @@
       "Fusion Duets",
       "Lofi Jana Kavi"
     ],
-    "toolsUsed": ["Suno, Veo"],
+    "toolsUsed": [
+      "Suno, Veo"
+    ],
     "alt": "AI Janakavi"
-  },    
+  },
   {
     "type": "video",
     "src": "assets/apps/projects/marky/Pimburupath.mp4",
@@ -52,7 +54,9 @@
       "API Magic",
       "Visualizing Chaos"
     ],
-    "toolsUsed": ["Python, Generative AI"],
+    "toolsUsed": [
+      "Python, Generative AI"
+    ],
     "alt": "Pimburupath"
   }
 ]
