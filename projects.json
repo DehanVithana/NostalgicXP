@@ -58,5 +58,24 @@
       "Python, Generative AI"
     ],
     "alt": "Pimburupath"
+  },
+    {
+    "type": "image",
+    "src": "assets/apps/projects/hero-graphics/covid.webp",
+    "images": [
+      "assets/apps/projects/hero-graphics/covid.webp"
+    ],
+    "title": "මීටරේ ගැන මීටරෙන්",
+    "subtitle": "Decoding the world with an engineering mind. 🇱🇰 Data, Logic & Science explained simply.",
+    "description": "Cut through the noise and rumors to look at the numbers behind the headlines. From the mathematics of pandemics to the physics of everyday life, this channel breaks down complex reality using engineering logic. No speculation, just data.",
+    "bulletPoints": [
+      "Data Visualized",
+      "Myth-Busting",
+      "Engineer POV"
+    ],
+    "toolsUsed": [
+      "Linear Algebra, WordPress"
+    ],
+    "alt": "මීටරේ ගැන මීටරෙන්"
   }
 ]
