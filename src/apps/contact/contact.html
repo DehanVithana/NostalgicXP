@@ -5,13 +5,14 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>Contact Me</title>
     <link rel="stylesheet" href="https://unpkg.com/xp.css@0.2.6/dist/XP.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="contact.css">
   </head>
   <body>
     <div class="content-wrapper">
       <div class="field">
         <label for="contact-to">To:</label> 
-        <input type="text" id="contact-to" class="input readonly" value="Dehan Vithana <dehan.m.vithana@gmail.com>" readonly="readonly">
+        <input type="text" id="contact-to" class="input readonly" value="Dehan Vithana <contact@dehanvithana.com>" readonly="readonly">
       </div>
       <div class="field">
         <label for="contact-from">From:</label> 
@@ -23,15 +24,34 @@
       </div>
       <textarea id="contact-message" class="textarea" placeholder="Write your message here"></textarea>
 
-      <div class="action-bar" style="margin-top: 10px; display: flex; justify-content: flex-end; gap: 8px;">
+      <div class="action-bar" style="margin-top: 10px; display: flex; justify-content: flex-end; gap: 8px; flex-wrap: wrap;">
+        
         <a href="tel:+94718704640" style="text-decoration: none;">
-          <button type="button">📞 Call</button>
+          <button type="button" style="display: flex; align-items: center; gap: 5px;">
+            <i class="fas fa-phone" style="transform: scaleX(-1);"></i> Call
+          </button>
         </a>
+
         <a href="https://wa.me/94718704640" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-          <button type="button">💬 WhatsApp</button>
+          <button type="button" style="display: flex; align-items: center; gap: 5px;">
+            <i class="fab fa-whatsapp" style="color: #25D366; font-size: 1.1em;"></i> WhatsApp
+          </button>
         </a>
+
+        <a href="https://www.facebook.com/dehan.vithana/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+          <button type="button" style="display: flex; align-items: center; gap: 5px;">
+            <i class="fab fa-facebook" style="color: #1877F2; font-size: 1.1em;"></i> Facebook
+          </button>
+        </a>
+
+        <a href="https://www.instagram.com/dehanvithana/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+          <button type="button" style="display: flex; align-items: center; gap: 5px;">
+            <i class="fab fa-instagram" style="color: #E1306C; font-size: 1.1em;"></i> Instagram
+          </button>
+        </a>
+
       </div>
-      </div>
+    </div>
     <script src="contact.js"></script>
   </body>
 </html>
