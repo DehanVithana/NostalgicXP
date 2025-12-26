@@ -1,3 +1,12 @@
+export async function POST(req: NextRequest) {
+  console.log("WEBHOOK HIT!"); // Add this line
+  try {
+    const payload = await req.json();
+    console.log("Payload Type:", payload.type); // Add this line
+    // ... rest of the code
+
+
+
 import { Resend } from 'resend';
 import { NextRequest, NextResponse } from 'next/server';
 
